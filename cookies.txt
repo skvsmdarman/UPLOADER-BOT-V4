@@ -21,3 +21,8 @@ luluvdoo.com	FALSE	/d	FALSE	1752446746	file_id	11273913
 #HttpOnly_.luluvdoo.com	TRUE	/	FALSE	1752497159	lang	1
 luluvdoo.com	FALSE	/	FALSE	1784291024	UGVyc2lzdFN0b3JhZ2U	%7B%7D
 luluvdoo.com	FALSE	/	FALSE	1784291025	__PPU_puid	16721056472263596676
+www.eporner.com	FALSE	/	FALSE	1783945978	epcolor	black
+www.eporner.com	FALSE	/	FALSE	1752513067	DASHmanualResolution	true
+www.eporner.com	FALSE	/	FALSE	1786365179	_pk_id.1.5d0f	1425b0b6565b0171.1752409979.
+www.eporner.com	FALSE	/	TRUE	1753619576	EPRNS	023e4b1ecf03e223609ddac6e1b9f6ce
+#HttpOnly_.eporner.com	TRUE	/	TRUE	1755001976	PHPSESSID	b4a1a59a63bf0ae302af5cbde16d7e35
